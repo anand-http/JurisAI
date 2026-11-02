@@ -1,0 +1,22 @@
+# Optional local MongoDB + Postgres/pgvector for development (not used on EC2).
+# Credentials come from .env (never commit them here):
+#   POSTGRES_USER=...  POSTGRES_PASSWORD=...  POSTGRES_DB=...
+# Then `docker compose up -d` and point DATABASE_URL at localhost:5432.
+services:
+  mongo:
+    image: mongo:8
+    ports: ["27017:27017"]
+    volumes: [mongo-data:/data/db]
+
+  postgres:
+    image: pgvector/pgvector:pg18
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:?set POSTGRES_USER in .env}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD in .env}
+      POSTGRES_DB: ${POSTGRES_DB:-jurisai}
+    ports: ["5432:5432"]
+    volumes: [pg-data:/var/lib/postgresql/data]
+
+volumes:
+  mongo-data:
+  pg-data:

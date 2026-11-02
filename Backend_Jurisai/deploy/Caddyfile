@@ -1,0 +1,10 @@
+# /etc/caddy/Caddyfile. Caddy obtains and renews the HTTPS certificate automatically
+# once api.yourdomain.in points at this server's Elastic IP (DNS A record) and ports
+# 80 and 443 are open in the security group.
+api.yourdomain.in {
+	encode gzip
+	request_body {
+		max_size 2MB
+	}
+	reverse_proxy 127.0.0.1:4000
+}

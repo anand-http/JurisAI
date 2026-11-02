@@ -1,0 +1,253 @@
+{
+  "_notice": "DEVELOPMENT SEED ONLY. 18 statute provisions + 7 Supreme Court cases for exercising retrieval and citation verification. Statute texts were checked against Indian Kanoon on 2026-09-27/28 (sub-sections, provisos, exceptions and illustrations not listed are omitted and marked as such). Case 'excerpts' are summaries of holdings, NOT verbatim judgment text. Re-ingest from India Code / Indian Kanoon before any production use.",
+  "statutes": [
+    {
+      "source_id": "ipc-s420",
+      "act_code": "IPC",
+      "act_name": "Indian Penal Code, 1860",
+      "section_number": "420",
+      "section_title": "Cheating and dishonestly inducing delivery of property",
+      "section_text": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "source_url": "https://indiankanoon.org/doc/1436241/"
+    },
+    {
+      "source_id": "ipc-s498a",
+      "act_code": "IPC",
+      "act_name": "Indian Penal Code, 1860",
+      "section_number": "498A",
+      "section_title": "Husband or relative of husband of a woman subjecting her to cruelty",
+      "section_text": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine.\nExplanation.—For the purposes of this section, \"cruelty\" means—\n(a) any wilful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb or health (whether mental or physical) of the woman; or\n(b) harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security or is on account of failure by her or any person related to her to meet such demand.",
+      "source_url": "https://indiankanoon.org/doc/538436/"
+    },
+    {
+      "source_id": "bns-s85",
+      "act_code": "BNS",
+      "act_name": "Bharatiya Nyaya Sanhita, 2023",
+      "section_number": "85",
+      "section_title": "Husband or relative of husband of a woman subjecting her to cruelty",
+      "section_text": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine.",
+      "source_url": "https://indiankanoon.org/doc/28017723/"
+    },
+    {
+      "source_id": "crpc-s154",
+      "act_code": "CRPC",
+      "act_name": "Code of Criminal Procedure, 1973",
+      "section_number": "154",
+      "section_title": "Information in cognizable cases",
+      "section_text": "(1) Every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing by him or under his direction, and be read over to the informant; and every such information, whether given in writing or reduced to writing as aforesaid, shall be signed by the person giving it, and the substance thereof shall be entered in a book to be kept by such officer in such form as the State Government may prescribe in this behalf.\n[Provisos to sub-section (1) and sub-sections (2) and (3) are not included in this development seed.]",
+      "source_url": "https://indiankanoon.org/doc/1980578/"
+    },
+    {
+      "source_id": "crpc-s438",
+      "act_code": "CRPC",
+      "act_name": "Code of Criminal Procedure, 1973",
+      "section_number": "438",
+      "section_title": "Direction for grant of bail to person apprehending arrest",
+      "section_text": "(1) Where any person has reason to believe that he may be arrested on an accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section that in the event of such arrest he shall be released on bail; and that Court may, after taking into consideration, inter alia, the following factors, namely:—\n(i) the nature and gravity of the accusation;\n(ii) the antecedents of the applicant including the fact as to whether he has previously undergone imprisonment on conviction by a Court in respect of any cognisable offence;\n(iii) the possibility of the applicant to flee from justice; and\n(iv) where the accusation has been made with the object of injuring or humiliating the applicant by having him so arrested,\neither reject the application forthwith or issue an interim order for the grant of anticipatory bail.\n[Provisos to sub-section (1) and sub-sections (1A) to (4) are not included in this development seed.]",
+      "source_url": "https://indiankanoon.org/doc/1783708/"
+    },
+    {
+      "source_id": "bnss-s482",
+      "act_code": "BNSS",
+      "act_name": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "section_number": "482",
+      "section_title": "Direction for grant of bail to person apprehending arrest",
+      "section_text": "(1) When any person has reason to believe that he may be arrested on an accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section; and that Court may, if it thinks fit, direct that in the event of such arrest, he shall be released on bail.\n[Sub-sections (2) to (4) are not included in this development seed.]",
+      "source_url": "https://indiankanoon.org/doc/73182733/"
+    },
+    {
+      "source_id": "crpc-s482",
+      "act_code": "CRPC",
+      "act_name": "Code of Criminal Procedure, 1973",
+      "section_number": "482",
+      "section_title": "Saving of inherent powers of High Court",
+      "section_text": "Nothing in this Code shall be deemed to limit or affect the inherent powers of the High Court to make such orders as may be necessary to give effect to any order under this Code, or to prevent abuse of the process of any Court or otherwise to secure the ends of justice.",
+      "source_url": "https://indiankanoon.org/doc/1679850/"
+    },
+    {
+      "source_id": "bnss-s528",
+      "act_code": "BNSS",
+      "act_name": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "section_number": "528",
+      "section_title": "Saving of inherent powers of High Court",
+      "section_text": "Nothing in this Sanhita shall be deemed to limit or affect the inherent powers of the High Court to make such orders as may be necessary to give effect to any order under this Sanhita, or to prevent abuse of the process of any Court or otherwise to secure the ends of justice.",
+      "source_url": "https://indiankanoon.org/doc/99044874/"
+    },
+    {
+      "source_id": "iea-s101",
+      "act_code": "IEA",
+      "act_name": "Indian Evidence Act, 1872",
+      "section_number": "101",
+      "section_title": "Burden of proof",
+      "section_text": "Whoever desires any Court to give judgment as to any legal right or liability dependent on the existence of facts which he asserts, must prove that those facts exist.\nWhen a person is bound to prove the existence of any fact, it is said that the burden of proof lies on that person.",
+      "source_url": "https://indiankanoon.org/doc/147127/"
+    },
+    {
+      "source_id": "nia-s138",
+      "act_code": "NIA",
+      "act_name": "Negotiable Instruments Act, 1881",
+      "section_number": "138",
+      "section_title": "Dishonour of cheque for insufficiency, etc., of funds in the account",
+      "section_text": "Where any cheque drawn by a person on an account maintained by him with a banker for payment of any amount of money to another person from out of that account for the discharge, in whole or in part, of any debt or other liability, is returned by the bank unpaid, either because of the amount of money standing to the credit of that account is insufficient to honour the cheque or that it exceeds the amount arranged to be paid from that account by an agreement made with that bank, such person shall be deemed to have committed an offence and shall, without prejudice to any other provisions of this Act, be punished with imprisonment for a term which may be extended to two years, or with fine which may extend to twice the amount of the cheque, or with both:\nProvided that nothing contained in this section shall apply unless—\n(a) the cheque has been presented to the bank within a period of six months from the date on which it is drawn or within the period of its validity, whichever is earlier;\n(b) the payee or the holder in due course of the cheque, as the case may be, makes a demand for the payment of the said amount of money by giving a notice in writing, to the drawer of the cheque, within thirty days of the receipt of information by him from the bank regarding the return of the cheque as unpaid; and\n(c) the drawer of such cheque fails to make the payment of the said amount of money to the payee or, as the case may be, to the holder in due course of the cheque, within fifteen days of the receipt of the said notice.\nExplanation.—For the purposes of this section, \"debt or other liability\" means a legally enforceable debt or other liability.",
+      "source_url": "https://indiankanoon.org/doc/1823824/"
+    },
+    {
+      "source_id": "nia-s139",
+      "act_code": "NIA",
+      "act_name": "Negotiable Instruments Act, 1881",
+      "section_number": "139",
+      "section_title": "Presumption in favour of holder",
+      "section_text": "It shall be presumed, unless the contrary is proved, that the holder of a cheque received the cheque of the nature referred to in section 138 for the discharge, in whole or in part, of any debt or other liability.",
+      "source_url": "https://indiankanoon.org/doc/268919/"
+    },
+    {
+      "source_id": "nia-s142",
+      "act_code": "NIA",
+      "act_name": "Negotiable Instruments Act, 1881",
+      "section_number": "142",
+      "section_title": "Cognizance of offences",
+      "section_text": "(1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974),—\n(a) no court shall take cognizance of any offence punishable under section 138 except upon a complaint, in writing, made by the payee or, as the case may be, the holder in due course of the cheque;\n(b) such complaint is made within one month of the date on which the cause of action arises under clause (c) of the proviso to section 138:\nProvided that the cognizance of a complaint may be taken by the Court after the prescribed period, if the complainant satisfies the Court that he had sufficient cause for not making a complaint within such period;\n(c) no court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class shall try any offence punishable under section 138.\n[Sub-section (2) is not included in this development seed.]",
+      "source_url": "https://indiankanoon.org/doc/595945/"
+    },
+    {
+      "source_id": "ica-s73",
+      "act_code": "ICA",
+      "act_name": "Indian Contract Act, 1872",
+      "section_number": "73",
+      "section_title": "Compensation for loss or damage caused by breach of contract",
+      "section_text": "When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it.\nSuch compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach.\nWhen an obligation resembling those created by contract has been incurred and has not been discharged, any person injured by the failure to discharge it is entitled to receive the same compensation from the party in default, as if such person had contracted to discharge it and had broken his contract.\nExplanation.—In estimating the loss or damage arising from a breach of contract, the means which existed of remedying the inconvenience caused by the non-performance of the contract must be taken into account.\n[Illustrations are not included in this development seed.]",
+      "source_url": "https://indiankanoon.org/doc/339747/"
+    },
+    {
+      "source_id": "ica-s74",
+      "act_code": "ICA",
+      "act_name": "Indian Contract Act, 1872",
+      "section_number": "74",
+      "section_title": "Compensation for breach of contract where penalty stipulated for",
+      "section_text": "When a contract has been broken, if a sum is named in the contract as the amount to be paid in case of such breach, or if the contract contains any other stipulation by way of penalty, the party complaining of the breach is entitled, whether or not actual damage or loss is proved to have been caused thereby, to receive from the party who has broken the contract reasonable compensation not exceeding the amount so named or, as the case may be, the penalty stipulated for.\nExplanation.—A stipulation for increased interest from the date of default may be a stipulation by way of penalty.\n[The Exception and Illustrations are not included in this development seed.]",
+      "source_url": "https://indiankanoon.org/doc/1941714/"
+    },
+    {
+      "source_id": "tpa-s106",
+      "act_code": "TPA",
+      "act_name": "Transfer of Property Act, 1882",
+      "section_number": "106",
+      "section_title": "Duration of certain leases in absence of written contract or local usage",
+      "section_text": "(1) In the absence of a contract or local law or usage to the contrary, a lease of immovable property for agricultural or manufacturing purposes shall be deemed to be a lease from year to year, terminable, on the part of either lessor or lessee, by six months' notice; and a lease of immovable property for any other purpose shall be deemed to be a lease from month to month, terminable, on the part of either lessor or lessee, by fifteen days' notice.\n(2) Notwithstanding anything contained in any other law for the time being in force, the period mentioned in sub-section (1) shall commence from the date of receipt of notice.\n(3) A notice under sub-section (1) shall not be deemed to be invalid merely because the period mentioned therein falls short of the period specified under that sub-section, where a suit or proceeding is filed after the expiry of the period mentioned in that sub-section.\n(4) Every notice under sub-section (1) must be in writing, signed by or on behalf of the person giving it, and either be sent by post to the party who is intended to be bound by it or be tendered or delivered personally to such party, or to one of his family or servants at his residence, or (if such tender or delivery is not practicable) affixed to a conspicuous part of the property.",
+      "source_url": "https://indiankanoon.org/doc/80042/"
+    },
+    {
+      "source_id": "cpc-s139",
+      "act_code": "CPC",
+      "act_name": "Code of Civil Procedure, 1908",
+      "section_number": "139",
+      "section_title": "Oath on affidavit by whom to be administered",
+      "section_text": "In the case of any affidavit under this Code—\n(a) any Court or Magistrate, or\n(aa) any notary appointed under the Notaries Act, 1952 (53 of 1952), or\n(b) any officer or other person whom a High Court may appoint in this behalf, or\n(c) any officer appointed by any other Court which the State Government has generally or specially empowered in this behalf,\nmay administer the oath to the deponent.",
+      "source_url": "https://indiankanoon.org/doc/176184627/"
+    },
+    {
+      "source_id": "cpc-o19-r3",
+      "act_code": "CPC",
+      "act_name": "Code of Civil Procedure, 1908",
+      "section_number": "Order XIX Rule 3",
+      "section_title": "Matters to which affidavits shall be confined",
+      "section_text": "(1) Affidavits shall be confined to such facts as the deponent is able of his own knowledge to prove, except on interlocutory applications, on which statements of his belief may be admitted: provided that the grounds thereof are stated.\n[Sub-rule (2) is not included in this development seed.]",
+      "source_url": "https://indiankanoon.org/search/?formInput=%22matters%20to%20which%20affidavits%20shall%20be%20confined%22"
+    },
+    {
+      "source_id": "cpc-o18-r4",
+      "act_code": "CPC",
+      "act_name": "Code of Civil Procedure, 1908",
+      "section_number": "Order XVIII Rule 4",
+      "section_title": "Recording of evidence",
+      "section_text": "(1) In every case, the examination-in-chief of a witness shall be on affidavit and copies thereof shall be supplied to the opposite party by the party who calls him for evidence:\nProvided that where documents are filed and the parties rely upon the documents, the proof and admissibility of such documents which are filed along with affidavit shall be subject to the orders of the Court.\n[The remaining sub-rules are not included in this development seed.]",
+      "source_url": "https://indiankanoon.org/search/?formInput=%22examination-in-chief%20of%20a%20witness%20shall%20be%20on%20affidavit%22"
+    }
+  ],
+  "cases": [
+    {
+      "source_id": "case-sc-2014-arnesh-kumar",
+      "case_name": "Arnesh Kumar v. State of Bihar",
+      "court": "Supreme Court of India",
+      "date": "2014-07-02",
+      "citation_text": "(2014) 8 SCC 273",
+      "excerpts": [
+        "[Development seed: summary of holding, not verbatim judgment text.] The Court held that arrest is not to be made mechanically in cases under Section 498-A IPC, or in other offences punishable with imprisonment which may be less than seven years or which may extend to seven years. A police officer must satisfy himself about the necessity of arrest under the parameters of Section 41 CrPC and record reasons in writing.",
+        "[Development seed: summary of holding, not verbatim judgment text.] Directions issued: police officers are to be provided a checklist of the sub-clauses of Section 41(1)(b)(ii) CrPC; the Magistrate, while authorising detention, must peruse the report furnished by the police and record satisfaction; notice of appearance under Section 41A CrPC is to be served within two weeks of institution of the case; failure to comply renders police officers liable to departmental action and contempt, and Judicial Magistrates authorising detention without recording reasons liable to departmental action."
+      ],
+      "source_url": "https://indiankanoon.org/doc/2982624/"
+    },
+    {
+      "source_id": "case-sc-2013-lalita-kumari",
+      "case_name": "Lalita Kumari v. Government of Uttar Pradesh",
+      "court": "Supreme Court of India (Constitution Bench)",
+      "date": "2013-11-12",
+      "citation_text": "(2014) 2 SCC 1",
+      "excerpts": [
+        "[Development seed: summary of holding, not verbatim judgment text.] Registration of an FIR under Section 154 CrPC is mandatory if the information discloses the commission of a cognizable offence, and no preliminary inquiry is permissible in such a situation. If the information does not disclose a cognizable offence but indicates the necessity for an inquiry, a preliminary inquiry may be conducted only to ascertain whether a cognizable offence is disclosed.",
+        "[Development seed: summary of holding, not verbatim judgment text.] Categories of cases in which a preliminary inquiry may be made include matrimonial or family disputes, commercial offences, medical negligence cases, corruption cases, and cases with abnormal delay in initiating prosecution. The preliminary inquiry should be time-bound and should not exceed seven days, with the reasons for any delay reflected in the General Diary."
+      ],
+      "source_url": "https://indiankanoon.org/doc/10239019/"
+    },
+    {
+      "source_id": "case-sc-1990-bhajan-lal",
+      "case_name": "State of Haryana v. Bhajan Lal",
+      "court": "Supreme Court of India",
+      "date": "1990-11-21",
+      "citation_text": "1992 Supp (1) SCC 335",
+      "excerpts": [
+        "[Development seed: summary of holding, not verbatim judgment text.] The Court illustrated categories of cases in which the power under Article 226 of the Constitution or the inherent power under Section 482 CrPC may be exercised to prevent abuse of process or secure the ends of justice, including where: (1) the allegations in the FIR or complaint, even if taken at face value, do not prima facie constitute any offence; (2) the allegations do not disclose a cognizable offence justifying investigation without a Magistrate's order; (3) the uncontroverted allegations and evidence do not disclose any offence; (4) the allegations constitute only a non-cognizable offence and no investigation is permitted without a Magistrate's order.",
+        "[Development seed: summary of holding, not verbatim judgment text.] Further categories: (5) the allegations are so absurd and inherently improbable that no prudent person could conclude there is sufficient ground to proceed; (6) there is an express legal bar in the Code or the concerned Act to the institution or continuance of the proceedings; (7) the proceeding is manifestly attended with mala fides or instituted maliciously with an ulterior motive for wreaking vengeance. The Court cautioned that the power of quashing should be exercised very sparingly, with circumspection, and in the rarest of rare cases."
+      ],
+      "source_url": "https://indiankanoon.org/doc/1033637/"
+    },
+    {
+      "source_id": "case-sc-2020-sushila-aggarwal",
+      "case_name": "Sushila Aggarwal v. State (NCT of Delhi)",
+      "court": "Supreme Court of India (Constitution Bench)",
+      "date": "2020-01-29",
+      "citation_text": "(2020) 5 SCC 1",
+      "excerpts": [
+        "[Development seed: summary of holding, not verbatim judgment text.] Protection granted to a person under Section 438 CrPC should not invariably be limited to a fixed period; it should enure in favour of the accused without restriction on time. The life of anticipatory bail does not end when the accused is summoned by the court or when charges are framed, and can continue till the end of the trial, unless the court, on the specific facts of a case, imposes conditions limiting its duration.",
+        "[Development seed: summary of holding, not verbatim judgment text.] An application for anticipatory bail should be based on concrete facts, not vague or general allegations, relating to a specific offence. The court should consider the nature and gravity of the offence, the role attributed to the applicant, and the facts of the case, and may impose conditions such as those under Section 437(3) read with Section 438(2) CrPC."
+      ],
+      "source_url": "https://indiankanoon.org/doc/123660783/"
+    },
+    {
+      "source_id": "case-sc-2010-siddharam-mhetre",
+      "case_name": "Siddharam Satlingappa Mhetre v. State of Maharashtra",
+      "court": "Supreme Court of India",
+      "date": "2010-12-02",
+      "citation_text": "(2011) 1 SCC 694",
+      "excerpts": [
+        "[Development seed: summary of holding, not verbatim judgment text.] Personal liberty under Article 21 is a very precious fundamental right and should be curtailed only when it becomes imperative in the peculiar facts and circumstances of the case. The power under Section 438 CrPC is an extraordinary power and should be exercised judiciously, but no inflexible guidelines or straitjacket formula can be laid down for its exercise.",
+        "[Development seed: summary of holding, not verbatim judgment text.] Factors for consideration include the nature and gravity of the accusation and the exact role of the accused; the antecedents of the applicant including any previous imprisonment on conviction for a cognizable offence; the possibility of the applicant fleeing from justice; the likelihood of repetition of similar offences; whether the accusation is made with the object of injuring or humiliating the applicant; the impact of the grant of anticipatory bail in cases of large magnitude affecting many people; and reasonable apprehension of tampering with witnesses or threat to the complainant."
+      ],
+      "source_url": "https://indiankanoon.org/doc/1108032/"
+    },
+    {
+      "source_id": "case-sc-2010-rangappa",
+      "case_name": "Rangappa v. Sri Mohan",
+      "court": "Supreme Court of India",
+      "date": "2010-05-07",
+      "citation_text": "(2010) 11 SCC 441",
+      "excerpts": [
+        "[Development seed: summary of holding, not verbatim judgment text.] The presumption mandated by Section 139 of the Negotiable Instruments Act, 1881 includes a presumption that there exists a legally enforceable debt or liability. Section 139 is an example of a reverse onus clause, but the presumption is rebuttable.",
+        "[Development seed: summary of holding, not verbatim judgment text.] The accused can rebut the presumption by raising a probable defence, and the standard of proof for doing so is preponderance of probabilities. The accused may rely on the materials submitted by the complainant and need not necessarily lead evidence of his own."
+      ],
+      "source_url": "https://indiankanoon.org/doc/150051/"
+    },
+    {
+      "source_id": "case-sc-2007-cc-alavi-haji",
+      "case_name": "C.C. Alavi Haji v. Palapetty Muhammed",
+      "court": "Supreme Court of India",
+      "date": "2007-05-18",
+      "citation_text": "(2007) 6 SCC 555",
+      "excerpts": [
+        "[Development seed: summary of holding, not verbatim judgment text.] Where the notice under clause (b) of the proviso to Section 138 of the Negotiable Instruments Act, 1881 is sent by registered post to the correct address of the drawer, service may be presumed under Section 27 of the General Clauses Act, 1897, unless the drawer proves that it was not really served. It is not necessary to aver in the complaint that the drawer evaded service.",
+        "[Development seed: summary of holding, not verbatim judgment text.] A drawer who claims not to have received the notice may, within 15 days of receiving summons from the court, pay the cheque amount; if he does so, the complaint is liable to be rejected. A drawer who does not pay within that time cannot contend that there was no proper service of notice."
+      ],
+      "source_url": "https://indiankanoon.org/doc/272690/"
+    }
+  ]
+}

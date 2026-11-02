@@ -1,0 +1,58 @@
+{
+  "name": "jurisai-backend",
+  "version": "0.1.0",
+  "description": "AI-assisted, retrieval-grounded legal drafting API for Indian litigation documents",
+  "scripts": {
+    "dev": "tsx watch --env-file-if-exists=.env src/index.ts",
+    "build": "tsc -p tsconfig.build.json",
+    "start": "node --env-file-if-exists=.env dist/index.js",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "ingest": "tsx --env-file-if-exists=.env src/ingestion/ingest.ts",
+    "build:template": "tsx scripts/build-docx-template.ts",
+    "ingest:sc": "tsx --env-file-if-exists=.env src/ingestion/ingestSupremeCourt.ts",
+    "ingest:statutes": "tsx --env-file-if-exists=.env src/ingestion/ingestStatutes.ts",
+    "check:s3": "tsx --env-file-if-exists=.env scripts/check-s3.ts"
+  },
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.128.0",
+    "@aws-sdk/client-s3": "^3.1141.0",
+    "@aws-sdk/client-sesv2": "^3.1142.0",
+    "@aws-sdk/s3-request-presigner": "^3.1141.0",
+    "@google/genai": "^2.24.0",
+    "docxtemplater": "^3.71.0",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.7.0",
+    "helmet": "^8.3.0",
+    "hyparquet": "^1.31.2",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.10.2",
+    "pg": "^8.23.0",
+    "pino": "^10.3.1",
+    "pizzip": "^3.3.0",
+    "razorpay": "^2.9.8",
+    "unpdf": "^1.8.1",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.5.8",
+    "@electric-sql/pglite-pgvector": "^0.0.9",
+    "@types/express": "^5.0.6",
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/node": "^26.6.3",
+    "@types/pg": "^8.23.1",
+    "@types/supertest": "^7.2.1",
+    "docx": "^9.7.2",
+    "mongodb-memory-server": "^11.3.0",
+    "pino-pretty": "^13.1.3",
+    "supertest": "^7.3.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.2"
+  },
+  "private": true,
+  "engines": {
+    "node": ">=22.9"
+  }
+}

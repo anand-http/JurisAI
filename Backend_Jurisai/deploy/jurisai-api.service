@@ -1,0 +1,24 @@
+# /etc/systemd/system/jurisai-api.service. Keeps the API running and restarts it on crash or reboot.
+#   sudo cp deploy/jurisai-api.service /etc/systemd/system/ && sudo systemctl enable --now jurisai-api
+#   logs: journalctl -u jurisai-api -f
+[Unit]
+Description=JurisAI API
+After=network-online.target postgresql.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=jurisai
+WorkingDirectory=/opt/jurisai
+ExecStart=/usr/bin/node --env-file=/opt/jurisai/.env dist/index.js
+Restart=always
+RestartSec=5
+# Hardening: the app only needs its own directory (for .dev-exports in non-S3 setups).
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/opt/jurisai
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target
